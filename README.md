@@ -1,2 +1,2 @@
-# Githib-learning
+# Github-learning
 Learning
